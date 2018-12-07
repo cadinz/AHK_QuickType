@@ -1,4 +1,4 @@
-# QUICKTYPE AHK FILE
+# QUICKTYPE AHK
 
 
 ![exec](./image/execute.png)
