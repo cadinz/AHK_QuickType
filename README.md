@@ -1,8 +1,18 @@
 # QUICKTYPE AHK
 
-
 ![exec](./image/QuickType(win).gif)
 
-실행후 불러올 단어들을 입력후 ALT+N을 입력한 단어를 불러옵니다.
 
-QuickType.exe파일만으로 동작합니다.
+# System Requirements
+* Microsoft Windows 7/ 8/ 8.1/ 10
+
+
+# Usage
+1. Write what you need
+2. Press Alt+N
+
+
+
+# Library
+
+## [Image2Include](https://gist.github.com/AHK-just-me/5559658)
